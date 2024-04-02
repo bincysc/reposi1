@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="images/icon.png">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="Contact">
+            <ul>
+                <li><a href="tel:+1 301-786-3484 ">+1 301-786-3422</a></li>
+                <li><a href="mailto:contact@candidtaxes.com">contact@candid.com</a></li>
+            </ul>
+        </div>
+        <div class="menu">
+            <img src="images/logo-color.png" alt="100%">
+        </div>
+    </header>
+    <div id="signup">
+        <p id="p1">
+            100% ACCURATE <br>AND OPTIMIZED RETURNS
+        </p>
+    </div>
+    <footer>
+        <img src="images/logo-white.png" alt="logo-white">
+        Candids takes immense pride in providing tax and financial services for our clients. We are a team of qualified, highly skilled and dedicated tax & accounting Professionals with vast experience.
+        <div><ul>
+            <b>QUICK LINKS</b>
+            <li><a href="https://www.candidtaxes.com/register">Register</a></li>
+            <li><a href="https://www.candidtaxes.com/login">Login</a></li>
+            <li><a href="https://www.candidtaxes.com/rrg">Record Retention Guide</a></li>
+            <li><a href="https://www.candidtaxes.com/contactus">Contact Us</a></li>
+            <li><a href="https://www.candidtaxes.com/pricing">Pricing</a></li>
+            <li>Refund Tracking</li>
+            <li>Film Profile</li>
+        </ol></div>
+    </footer>
+</body>
+</html>
